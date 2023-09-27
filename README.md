@@ -1,6 +1,6 @@
 # Trainer for [`audio-diffusion-pytorch`](https://github.com/archinetai/audio-diffusion-pytorch)
 
-audio-diffusion-pytorch-trainer notebook: [![Open In Colab](https://colab.research.google.com/github/endofu/audio-diffusion-pytorch-trainer/blob/688e4b0625df05d984f659fc64e7c78ae59b1290/notebooks/edited_audio_diffusion_pytorch_trainer_v0_2%20.ipynb)
+audio-diffusion-pytorch-trainer notebook: [![Open In Colab](https://colab.research.google.com/github/endofu/audio-diffusion-pytorch-trainer/blob/688e4b0625df05d984f659fc64e7c78ae59b1290/notebooks/edited_audio_diffusion_pytorch_trainer_v0_2%20.ipynb)]
 
 
 ## Setup
